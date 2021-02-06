@@ -10,7 +10,7 @@ Project is created with:
 ## Executive Summary 
 The purpose of this report is to provide supporting data in regard to the multi-leveled issues within the U.S. mass incarceration system. This analysis will be specific to the logic behind maximum security facility assignments. The models created can be used by prison staff to understand their systems and make improvements where needed. The problem statement these models are centered around is as follows:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Problem Statement**: Outside of an individual’s specific penal charge, certain determinants may cause an individual to be placed in &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;maximum security level facilities over others.
+**Problem Statement**: Outside of an individual’s specific penal charge, certain determinants may cause an individual to be placed in maximum security level facilities over others.
 
 The data used to assess this problem was retrieved from Kaggle and is called “NYS Inmates Under Custody: Beginning 2008”. The data used for these models included the variables Race/Ethnicity, Gender, Latest Admission Type, and Facility Security Level. The variable Facility Security Level was the dependent variable and consisted of a two-level factor (i.e., Maximum Security Assigned versus Maximum Security Not Assigned). Initial analyses showed the data to be slightly imbalanced toward Maximum Security Not Assigned (55%).
 
