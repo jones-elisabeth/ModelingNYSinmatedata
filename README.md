@@ -1,6 +1,6 @@
 # Modeling New York State Inmate Data: Factors associated with maximum security facility assignments
 ## Intro
-This R code is created to model the New York State Inmate data retrieved from Kaggle. Models implemented include a decision tree, naive bayes, logistic regression, bagging, random forest, boosting, linear discriminant analysis, and a support vector machine. This project was completed in conjunction with San Diego State's Center for Human Dynamics in the Mobile Age as part of my M.S. in Big Data Anlaytics.
+This R code is created to model the New York State Inmate data retrieved from Kaggle. Models implemented include a decision tree, naive bayes, logistic regression, bagging, random forest, boosting, linear discriminant analysis, and a support vector machine. This project was completed in conjunction with San Diego State Univeristy and The Center for Human Dynamics in the Mobile Age as part of my M.S. in Big Data Anlaytics.
 
 ## Technology
 Project is created with:
